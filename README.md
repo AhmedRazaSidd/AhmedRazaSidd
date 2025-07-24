@@ -56,39 +56,6 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI/ML Projects
-- **[LLM Agent Framework](https://github.com/AhmedRazaSidd/llm-agent-framework)** - Modular framework for building autonomous AI agents
-- **[Vision Transformer Implementation](https://github.com/AhmedRazaSidd/vision-transformer)** - Custom ViT implementation for image classification
-- **[Real-time Object Detection](https://github.com/AhmedRazaSidd/realtime-object-detection)** - YOLOv8 implementation with custom dataset support
-
-### 🌐 Web Applications
-- **[AI SaaS Platform](https://github.com/AhmedRazaSidd/ai-saas-platform)** - Full-stack AI application with Next.js and FastAPI
-- **[E-commerce Analytics Dashboard](https://github.com/AhmedRazaSidd/ecommerce-analytics)** - Real-time analytics with React and Node.js
-- **[Portfolio CMS](https://github.com/AhmedRazaSidd/portfolio-cms)** - Custom CMS built with Vue.js and Firebase
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Autonomous AI Agents with LangChain](https://dev.to/ahmedrazasidd/building-autonomous-ai-agents-with-langchain-1234)
-- [Optimizing Next.js Applications for Scale](https://dev.to/ahmedrazasidd/optimizing-nextjs-applications-5678)
-- [Computer Vision Pipeline Architecture](https://dev.to/ahmedrazasidd/computer-vision-pipeline-9012)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏆 Achievements
-- 🥇 1st Place - National AI Hackathon 2023
-- 🎖️ Google Developer Expert (GDE) Nominee
-- 📝 Published 3 research papers in IEEE conferences
-- 🌟 10K+ downloads on my open-source packages
-
----
-
 ## 📫 Let's Connect
 <div align="center">
   
