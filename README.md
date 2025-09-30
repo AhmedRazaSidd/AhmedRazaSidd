@@ -1,7 +1,7 @@
 <!-- Professional GitHub Profile README for Ahmed Raza Siddiqui -->
 <div align="center">
   
-![Header](https://github.com/AhmedRazaSidd/AhmedRazaSidd/blob/main/assets/github-header-image.png?raw=true)
+<!-- ![Header](https://github.com/AhmedRazaSidd/AhmedRazaSidd/blob/main/assets/github-header-image.png?raw=true) -->
 
 <h1 align="center">👋 Hello World! I'm Ahmed Raza Siddiqui</h1>
 <h3 align="center">AI Engineer | Full Stack Architect | Research Enthusiast</h3>
