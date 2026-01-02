@@ -4,7 +4,7 @@
 <!-- ![Header](https://github.com/AhmedRazaSidd/AhmedRazaSidd/blob/main/assets/github-header-image.png?raw=true) -->
 
 <h1 align="center">👋 Hello World! I'm Ahmed Raza Siddiqui</h1>
-<h3 align="center">AI Engineer | Full Stack Architect | Research Enthusiast</h3>
+<h3 align="center">Software Engineer | React.js, Next.js, TypeScript | Mern Stack </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F718&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+with+AI%2FML;Crafting+scalable+web+applications;Researching+next-gen+computer+vision;Open-source+contributor;Always+learning+new+tech)](https://git.io/typing-svg)
 
